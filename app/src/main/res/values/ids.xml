@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="myTextView" type="id" />
+    <item name="username" type="id" />
+    <item name="email" type="id" />
+    <item name="toolbar" type="id" />
+</resources>
